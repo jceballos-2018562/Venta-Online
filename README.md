@@ -1,6 +1,6 @@
-# RestServer IN6BM
+# Venta Online
 
-Este es un restServer con conección a mongoDB
+Esta es una venta online hecha con javascript, node js, y mongodb
 
 Renombrar el archivo example.env a .env, esto es con la intención de tener las variables de entorno
 configuradas en le proyecto, se estara agregando más en el futuro.
